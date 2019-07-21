@@ -1,0 +1,10 @@
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\bin\Debug\BounceBallProject.exe.config
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\bin\Debug\BounceBallProject.exe
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\bin\Debug\BounceBallProject.pdb
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.BounceBall.resources
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.Properties.Resources.resources
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.csproj.GenerateResource.cache
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.exe
+C:\Users\rosla\source\repos\BounceBallProject\BounceBallProject\obj\Debug\BounceBallProject.pdb
